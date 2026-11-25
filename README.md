@@ -13,12 +13,12 @@ Be Fit helps you track weight changes, log meals, and keep a record of your dail
 
 ## Four Art Themes
 
-| Theme | Character | Artist
-| --- | --- |
-| Baroque | Deep, warm colours and expressive figures | Peter Paul Rubens
-| Floral Atlas | Flowers, still lifes, and soft natural colours | Jacob Melchior van Herck, Franz de Hamilton, Frans Snyders, Daniel Seghers
-| Northern Light | A light palette with blue and sandy tones | Pieter Brueghel d. Ä, Jan Brueghel d. Ä, Paul de Vos
-| Flemish Everyday Life | Everyday scenes with a warm, intimate atmosphere | Adraen Brouwer, Frans Snyders, David Teniers d. J.
+| Theme | Character | Artists |
+| --- | --- | --- |
+| Baroque | Deep, warm colours and expressive figures | Peter Paul Rubens, Jan Wildens |
+| Floral Atlas | Flowers, still lifes, and soft natural colours | Jacob Melchior van Herck, Franz de Hamilton, Frans Snyders, Daniel Seghers |
+| Northern Light | A light palette with blue and sandy tones | Pieter Bruegel the Elder, Jan Brueghel the Elder, Paul de Vos |
+| Flemish Everyday Life | Everyday scenes with a warm, intimate atmosphere | Adriaen Brouwer, Frans Snyders, David Teniers the Younger |
 
 Each of the four app screens has its own painting of a particular theme. In settings, adjust the background’s position and zoom to choose the framing you prefer. Translucent panels let the artwork remain part of the experience.
 
@@ -28,15 +28,22 @@ Russian · English · German · French · Italian · Spanish
 
 ## Screenshots and Demo
 
-<p>
-  <img src="screenshots/weight.jpg" width="220" alt="Be Fit — Weight">
-  <img src="screenshots/food.jpg" width="220" alt="Be Fit — Food">
-  <img src="screenshots/steps.jpg" width="220" alt="Be Fit — Steps">
-  <img src="screenshots/goal.jpg" width="220" alt="Be Fit — Goal">
-</p>
+<table>
+  <tr>
+    <th>Weight</th>
+    <th>Food</th>
+    <th>Steps</th>
+    <th>Goal</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/weight.jpg" width="220" alt="Be Fit — Weight"></td>
+    <td><img src="screenshots/food.jpg" width="220" alt="Be Fit — Food"></td>
+    <td><img src="screenshots/steps.jpg" width="220" alt="Be Fit — Steps"></td>
+    <td><img src="screenshots/goal.jpg" width="220" alt="Be Fit — Goal"></td>
+  </tr>
+</table>
 
-For the demo video, upload an MP4 in the GitHub editor and place the resulting link on its own line outside this comment.
--->
+<!-- Add the uploaded demo video's link here on its own line. -->
 
 ## Data and AI Connection
 

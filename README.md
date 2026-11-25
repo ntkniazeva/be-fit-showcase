@@ -28,15 +28,11 @@ Russian · English · German · French · Italian · Spanish
 
 ## Screenshots and Demo
 
-Screenshots and a demonstration video will be published in this repository.
-
-<!-- After uploading your screenshots, replace the sentence above with a gallery, for example:
-
 <p>
-  <img src="screenshots/weight.png" width="220" alt="Be Fit — Weight">
-  <img src="screenshots/food.png" width="220" alt="Be Fit — Food">
-  <img src="screenshots/steps.png" width="220" alt="Be Fit — Steps">
-  <img src="screenshots/goal.png" width="220" alt="Be Fit — Goal">
+  <img src="screenshots/weight.jpg" width="220" alt="Be Fit — Weight">
+  <img src="screenshots/food.jpg" width="220" alt="Be Fit — Food">
+  <img src="screenshots/steps.jpg" width="220" alt="Be Fit — Steps">
+  <img src="screenshots/goal.jpg" width="220" alt="Be Fit — Goal">
 </p>
 
 For the demo video, upload an MP4 in the GitHub editor and place the resulting link on its own line outside this comment.

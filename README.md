@@ -2,7 +2,7 @@
 
 [**Download APK · Android 8.0+**](https://github.com/ntkniazeva/be-fit-showcase/releases/download/v0.2.30/BeFit-0.2.30.apk)
 
-Be Fit helps you track weight changes, log meals, and keep a record of your daily walking. Flemish paintings from the Alte Pinakothek, München create the backgrounds, while translucent panels keep the artwork visible. Each theme can be adjusted to suit your preferences.
+Be Fit helps you track weight changes, log meals, and keep a record of your daily walking. Flemish paintings from the Bayerische Staatsgemäldesammlungen collection form the backgrounds, while translucent panels keep the artwork visible. Each theme can be adjusted to suit your preferences.
 
 ## Features
 
@@ -43,7 +43,19 @@ Russian · English · German · French · Italian · Spanish
     <td><img src="screenshots/steps.jpg" width="220" alt="Be Fit — Steps"></td>
     <td><img src="screenshots/goal.jpg" width="220" alt="Be Fit — Goal"></td>
   </tr>
+  <tr>
+    <td align="center" valign="top">Jacob Melchior van Herck<br><a href="https://www.sammlung.pinakothek.de/en/artwork/2mxqBy7L8b"><em>Flowers in a Vase with Handles</em></a></td>
+    <td align="center" valign="top">Peter Paul Rubens<br><a href="https://www.sammlung.pinakothek.de/en/artwork/0vxon1v42V"><em>Two Satyrs</em></a></td>
+    <td align="center" valign="top">Peter Paul Rubens<br><a href="https://www.sammlung.pinakothek.de/en/artwork/ma4dqj6xrO"><em>St Christopher</em></a></td>
+    <td align="center" valign="top">Daniel Seghers<br><a href="https://www.sammlung.pinakothek.de/en/artwork/y7GE6904PV"><em>Holy Family with Floral Wreath</em></a></td>
+  </tr>
 </table>
+
+### Artwork credits
+
+Digital reproductions © [Bayerische Staatsgemäldesammlungen](https://www.sammlung.pinakothek.de/), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Backgrounds are cropped and scaled for display, with interface elements overlaid. Credits for all paintings used in the app are available in its artwork and licences section.
 
 <!-- Add the uploaded demo video's link here on its own line. -->
 
@@ -52,16 +64,6 @@ Russian · English · German · French · Italian · Spanish
 Your diary is stored on your phone. Logging weight, meals, and steps does not require an AI connection; the core diary works offline.
 
 AI input is optional, connects through your own ChatGPT account, requires an internet connection, and spends your Work/Codex limits. Meal descriptions and attached photos are sent to the connected service when you press Send. A meal is added to your diary only when you save it.
-
-## Artwork and Credits
-
-Digital artwork reproductions are provided by
-[Bayerische Staatsgemäldesammlungen](https://www.sammlung.pinakothek.de/)
-under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-Images are cropped and scaled for display, with interface elements overlaid.
-Artist names, artwork titles, and links to the original museum records
-are available in the app.
 
 ## About the Project
 

@@ -2,6 +2,8 @@
 
 [**Download APK · Android 8.0+**](https://github.com/ntkniazeva/be-fit-showcase/releases/download/v0.2.30/BeFit-0.2.30.apk)
 
+An Android diary for tracking weight, steps, and calorie intake, with an interface inspired by Flemish art collection of the Alte Pinakothek, Munich.
+
 Be Fit helps you track weight changes, log meals, and keep a record of your daily walking. Flemish paintings from the Bayerische Staatsgemäldesammlungen collection form the backgrounds, while translucent panels keep the artwork visible. Each theme can be adjusted to suit your preferences.
 
 ## Features

@@ -55,7 +55,13 @@ AI input is optional, connects through your own ChatGPT account, requires an int
 
 ## Artwork and Credits
 
-The app uses digital reproductions from the [Bayerische Staatsgemäldesammlungen](https://www.sammlung.pinakothek.de/) collection. The in-app artwork credits include artists, titles, dates, links to individual works, and licence information.
+Digital artwork reproductions are provided by
+[Bayerische Staatsgemäldesammlungen](https://www.sammlung.pinakothek.de/)
+under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Images are cropped and scaled for display, with interface elements overlaid.
+Artist names, artwork titles, and links to the original museum records
+are available in the app.
 
 ## About the Project
 
